@@ -1,5 +1,5 @@
 # PongSIC
-Pong Specific Integrated Circuit (P-SIC)
+Pong Specific Integrated Circuit
 
 ### Description
-Pong-SIC is the classic Pong game implemented as an mostly Open Source driven ASIC.
+PongSIC is the classic Pong game implemented as an mostly Open Source driven ASIC (Application Specific Integrated Circiut, that means: a "microchip").
